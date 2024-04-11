@@ -94,6 +94,6 @@ environment variable named `HTTP_SIKE` available in your CGI.
 
 ### DROWN
 
-- Stands for "Decrypting RSA with Obsolete and Weakened eNcryption"
+- Stands for "Decrypting RSA with Obsolete and Weakened encryption"
 - Exploits modern SSL/TLS suites by exploiting their obsolete SSLv2 protocol support.
 - The only viable countermeasure is to disable SSLv2 on all servers
