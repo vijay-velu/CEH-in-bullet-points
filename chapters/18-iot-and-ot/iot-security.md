@@ -243,6 +243,6 @@
   - Periodic assessment of devices
 - **Disable unused or unnecessary ports and services**
   - Disable UPnP port on routers
-  - Monitor traffic on port 48101 for infected traffic
+  - 📝Monitor traffic on port 48101 for infected traffic
   - Disable telnet as it's insecure protocol
   - Disable Guest or Demo user accounts
