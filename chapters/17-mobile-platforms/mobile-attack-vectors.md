@@ -130,7 +130,7 @@ vulnerabilities from spreading
 
 #### Jailbreaking Techniques
 
-##### Untethered jailbreak
+##### 📝Untethered jailbreak
 
 - Does not require to reboot with a connection to your computer
 - Exploit bypass the iBoot sequence
